@@ -147,11 +147,11 @@ body {
 }
 
 .game-card:nth-child(3) .game-background {
-    background-image: url('https://wallpapers.com/images/hd/1080p-call-of-duty-black-ops-cold-war-background-1920-x-1080-g5k27ehl8o0h8cu4.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGz1WsBleSxvE9VPbxgfDL5uE9aFHTDFM2fQ&s');
 }
 
 .game-card:nth-child(4) .game-background {
-    background-image: url('https://store-images.s-microsoft.com/image/apps.20094.65582080751232985.0d738a9b-fa32-4c73-bac7-17f6af448b4a.ccd92c09-b441-459e-b350-f8bb2c13a5b8?q=90&w=480&h=270');
+    background-image: url('https://store-images.s-microsoft.com/image/apps.10100.13592968084072659.9942fc9b-00e4-481e-adc1-2a32ea8331a0.a30d5b01-eb44-4e02-9dfa-821b29c8ea75?q=90&w=480&h=270');
 }
 
 .game-card:hover .game-background {
@@ -200,7 +200,7 @@ body {
 }
 
 .game-link {
-    background: linear-gradient(45deg, #667eea, #764ba2);
+    background: linear-gradient(45deg, #686b77, #2b1342);
     color: white;
     padding: 12px 30px;
     text-decoration: none;
